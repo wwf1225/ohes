@@ -1,0 +1,22 @@
+const GET_LIST = "GET_LIST"
+const ROLE_DETAIL = "ROLE_DETAIL"
+const EVENT_DETAIL = "EVENT_DETAIL"
+const EVENT_ID = 'EVENT_ID'
+const REF_NUM = 'REF_NUM'
+const REF_TYPE = "REF_TYPE"
+const DEPT = "DEPT"
+const REF_NODE = "REF_NODE"
+const REMEBER_LOCATION = "REMEBER_LOCATION"
+const NOW_TAB = "NOW_TAB"
+export default {
+    GET_LIST,
+    ROLE_DETAIL,
+    EVENT_DETAIL,
+    EVENT_ID,
+    REF_NUM,
+    REF_TYPE,
+    DEPT,
+    REF_NODE,
+    REMEBER_LOCATION,
+    NOW_TAB
+}
